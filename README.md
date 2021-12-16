@@ -37,5 +37,4 @@ Steps to create Project :
 	
 	
 	
-	![image](https://user-images.githubusercontent.com/71807859/146318580-6e8312c0-59ab-4ad0-85c6-af881ffaa389.png)
 
