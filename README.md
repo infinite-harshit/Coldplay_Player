@@ -35,8 +35,9 @@ Steps to create Project :
 	# includes three arrays of <Int>,<String> and <String> type that provides content for listview 
   	# on clicking the particular view of the list it gets redirected to the related song link on youtube.
 	
+![ss](https://user-images.githubusercontent.com/71807859/146319473-b33e5bee-ae2c-435f-96a8-3a1a45abcc50.jpg)
 	
-	![ss](https://user-images.githubusercontent.com/71807859/146319184-c5bda4ef-55cb-4042-b559-343c44451e05.jpg)
+
 
 	
 
